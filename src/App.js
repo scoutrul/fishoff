@@ -4,15 +4,7 @@ import './app.css';
 
 import HeaderLogo from './HeaderLogo'
 const App_styled = styled.div`
-	display: flex;
-	background-color: #00000a;
-	height: 100%;
-	min-height: 100vh;
-  padding: 40px;
-  background-size: 500px;
-  background-position-y: 40px;
-  background-repeat: no-repeat;
-  background-image: url('images/fishoff_hand.png')
+
 `;
 const Header_styled = styled.div``;
 

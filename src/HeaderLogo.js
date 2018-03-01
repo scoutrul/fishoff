@@ -8,9 +8,12 @@ const Logo_styled = styled.div`
 		max-width: 100%;
 	}
 	header {
+		font-size: 140%;
 		span {
 			display: block;
 			color: #ffebce;
+			font-family: 'Roboto Mono', monospace;
+			font-size: 180%;
 		}
 	}
 `;
